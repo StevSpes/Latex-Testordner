@@ -1,8 +1,8 @@
-PWD h:/01-DokumenteCloudWD/01 Duales Studium/01 Studium Maschinenbau/Latex
+PWD h:/01-DokumenteCloudWD/01 Duales Studium/01 Studium Maschinenbau/Latex/Tests/Latex-Testordner
 INPUT c:/texlive/2021/texmf.cnf
 INPUT c:/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT h:/01-DokumenteCloudWD/01 Duales Studium/01 Studium Maschinenbau/Latex/Test2.tex
+INPUT h:/01-DokumenteCloudWD/01 Duales Studium/01 Studium Maschinenbau/Latex/Tests/Latex-Testordner/Test2.tex
 OUTPUT Test2.log
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
