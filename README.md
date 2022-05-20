@@ -5,5 +5,6 @@ Hier steht ein Text für neugierige Leute.
 
 Besonders Simon.
 Grüße gehen raus.
+*Danke Grüße zurück*
 
 Viel Spaß beim Testen.
